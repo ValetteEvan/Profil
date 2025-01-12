@@ -1,8 +1,6 @@
 <div align="center">
   <h3>🦊 VALETTE Evan🦊 </h3>
-  <p>Student <br>Game dev </p>
-  
-  <h3>🌐 Socials:</h3>
+  <p>Student</p>
   <p>
     <a href="https://www.instagram.com/evan100vlt/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram" /></a>
     <a href="https://www.linkedin.com/in/evan-valette-10839323b/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
